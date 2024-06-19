@@ -1,2 +1,2 @@
 # daryamiw.github.io
-сайт для пользователя daryamiw
+Практика 2 семестр
